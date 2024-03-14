@@ -8,7 +8,7 @@ Welcome, esteemed colleague! I am Ajay Danasekaran, a dedicated backend engineer
 
 Unleash devastating force with these competencies:
 
-- **Backend Engineering**: Java, JDBC, Hibernate, Spring Boot,NestJS, Kotlin RESTful APIs, GraphQL, 
+- **Backend Engineering**: Java, JDBC, Hibernate, Spring Boot,NestJS, Kotlin, RESTful APIs, GraphQL, 
 - **Database Management**: SQL, NoSQL, PostgreSQL, MySQL
 - **Cloud Architecture**: Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
